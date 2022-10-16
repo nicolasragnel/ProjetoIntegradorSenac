@@ -1,0 +1,116 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Projeto
+{
+    internal class Teste
+    {
+        string Servico { get; set; }
+        public string HidrozonioterapiaDosPes { get; set; }
+        public string LimpezaDePeleProfunda { get; set; }
+        public string ReflexologiaPodal { get; set; }
+        public string PedicureEManicure { get; set; }
+        public string SpaDasMaos { get; set; }
+        public string SpaDosPes { get; set; }
+        public string MassagemAntiestresse { get; set; }
+        public string MassagemPedrasVulcanicas { get; set; }
+        public string MassagemRelaxanteAromatica { get; set; }
+        public string SlimBambu { get; set; }
+
+       public override string ToString()
+        {
+            return Servico;
+        }
+    }
+
+   internal class ListaServicos
+    {
+        public static Dictionary<string, List<string>> Servico = new Dictionary<string, List<string>>();
+
+       public static void Listar()
+        {
+            Dictionary<string, Teste> Servicos = new Dictionary<string, Teste>();
+
+           var Servico1 = new Teste()
+            {
+                HidrozonioterapiaDosPes = "Inclui esfoliação nos pés com break tea e hidrozonioterapia",
+
+           };
+
+           var Servico2 = new Teste()
+            {
+                LimpezaDePeleProfunda = "Tem como principal objetivo remover todas as impurezas do rosto,\n como células mortas, cravos (comedões),pontinhos pretos, espinhas miliuns e, desobstruir os poros sem agressões",
+
+           };
+
+           var Servico3 = new Teste()
+            {
+                ReflexologiaPodal = "É uma terapia complementar que se utiliza da manipulação dos pés, \n através de estimulação em pontos reflexos. Trata o corpo como um todo, podendo nos ajudar tanto, fisicamente quanto mentalmente",
+
+           };
+
+           var Servico4 = new Teste()
+            {
+                PedicureEManicure = "Higienização dos pés e mãos com corte de unhas, esfoliação e hidratação, \n retirada de cutícula e em seguida se o cliente desejar as unhas serão esmaltadas",
+
+           };
+
+           var Servico5 = new Teste()
+            {
+                SpaDasMaos = "Inclui em uma massagem esfoliante, uma massagem calmante e uma hidratação com parafina",
+
+           };
+
+           var Servico6 = new Teste()
+            {
+                SpaDosPes = "Inclui uma massagem esfoliante, um escalda pés e uma hidratação com parafina",
+
+           };
+
+           var Servico7 = new Teste()
+            {
+                MassagemAntiestresse = "Massagem inicia um ritual relaxante de alongamento cervical, seguido de \n movimentos lentos e suaves na face e couro cabeludo, liberando todas as tensões nessa região",
+
+           };
+
+           var Servico8 = new Teste()
+            {
+                MassagemPedrasVulcanicas = "Pedras vulcânicas aquecidas, técnicas de massagem e óleos aromáticos \n são os ingredientes que estão na base de uma experiência única e relaxante",
+
+           };
+
+           var Servico9 = new Teste()
+            {
+                MassagemRelaxanteAromatica = "Uma combinação perfeita de aromas aliada a manobras terapêuticas, \n lhe proporcionam relaxamento e estímulo na circulação dos fluídos. Perfeita para quem quer relaxar e equilibrar corpo e mente, é realizada com um delicioso e personalizado blend de aromas",
+
+           };
+
+           var Servico10 = new Teste()
+            {
+                SlimBambu = "Associação de massagem modeladora e bambuterapia com princípios ativos que ajudam na \n ativação da circulação e potencializam os resultados. Excelente massagem para modelagem corporal",
+
+           };
+
+
+           Servicos.Add(Servico1.HidrozonioterapiaDosPes, Servico1);
+            Servicos.Add(Servico2.LimpezaDePeleProfunda, Servico2);
+            Servicos.Add(Servico3.ReflexologiaPodal, Servico3);
+            Servicos.Add(Servico4.PedicureEManicure, Servico4);
+            Servicos.Add(Servico5.SpaDasMaos, Servico5);
+            Servicos.Add(Servico6.SpaDosPes, Servico6);
+            Servicos.Add(Servico7.MassagemAntiestresse, Servico7);
+            Servicos.Add(Servico8.MassagemPedrasVulcanicas, Servico8);
+            Servicos.Add(Servico9.MassagemRelaxanteAromatica, Servico9);
+            Servicos.Add(Servico10.SlimBambu, Servico10);
+            
+
+
+
+       }
+    }
+    
+
+}

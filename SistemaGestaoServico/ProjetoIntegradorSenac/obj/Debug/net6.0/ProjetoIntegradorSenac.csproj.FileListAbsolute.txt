@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\bin\Debug\net6.0\ProjetoIntegradorSenac.exe
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\bin\Debug\net6.0\ProjetoIntegradorSenac.deps.json
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\bin\Debug\net6.0\ProjetoIntegradorSenac.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\bin\Debug\net6.0\ProjetoIntegradorSenac.dll
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\bin\Debug\net6.0\ProjetoIntegradorSenac.pdb
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.dll
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\refint\ProjetoIntegradorSenac.dll
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.pdb
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ProjetoIntegradorSenac.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\Estudos\CursoCSharpSenac\ProjetoIntegrador\SistemaGestaoServico\ProjetoIntegradorSenac\obj\Debug\net6.0\ref\ProjetoIntegradorSenac.dll
